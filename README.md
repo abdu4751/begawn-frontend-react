@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# React + Vite
+# Begawn – Frontend React Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, responsive frontend website built for **Begawn**, developed using **React** and **Tailwind CSS**.  
+The project focuses on clean UI, smooth user experience, and reusable component-based architecture.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Fully **responsive layout** for mobile, tablet, and desktop
+- Built with **React** and **Tailwind CSS**
+- Interactive **Slick Carousel** for client comments and portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Technologies Used
+- **React.js** – Frontend framework
+- **Tailwind CSS** – Utility-first CSS framework
+- **React Slick Carousel** – For sliders and carousels
+- **GitHub Pages** – Deployment
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# begawn-frontend-react
->>>>>>> a7773b8324370e2dba9127565def3f12636f6b73
+## 🚀 Live Demo
+[View Live Site](https://abdu4751.github.io/begawn-frontend-react/)
