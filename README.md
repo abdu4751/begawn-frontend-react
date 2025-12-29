@@ -5,7 +5,7 @@ The project focuses on clean UI, smooth user experience, and reusable component-
 
 ## 🚀 Features
 - Fully **responsive layout** for mobile, tablet, and desktop
-- **Accordion section** for FAQs or additional content
+- **Accordion section** for FAQs 
 - Interactive **Slick Carousel** for client comments and portfolio
 
 ## 💻 Technologies Used
