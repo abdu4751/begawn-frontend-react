@@ -5,7 +5,7 @@ The project focuses on clean UI, smooth user experience, and reusable component-
 
 ## 🚀 Features
 - Fully **responsive layout** for mobile, tablet, and desktop
-- Built with **React** and **Tailwind CSS**
+- **Accordion section** for FAQs or additional content
 - Interactive **Slick Carousel** for client comments and portfolio
 
 ## 💻 Technologies Used
