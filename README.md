@@ -15,4 +15,5 @@ The project focuses on clean UI, smooth user experience, and reusable component-
 - **GitHub Pages** – Deployment
 
 ## 🚀 Live Demo
-[View Live Site](https://abdu4751.github.io/begawn-frontend-react/)
+<a href="https://abdu4751.github.io/begawn-frontend-react/" target="_blank">View Live Site</a>
+
